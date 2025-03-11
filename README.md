@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, i'm Fabian 👋
+- 👨🏼‍🎓 Student at Graz Univerity of Technology 
+- 📍Located at Graz, Austria
 
 <!--
 **afibian/afibian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
